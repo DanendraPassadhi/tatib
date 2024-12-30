@@ -12,17 +12,17 @@ Nama ini merupakan gabungan dari "TECHNO" yang mencerminkan pemanfaatan Teknolog
 ---
 
 ### FITUR
-* 🧑‍🏫Dosen
+* 🧑‍🏫**Dosen**
 <br> - Dashboard
 <br> - Form
 <br> - Class
-* 🧑‍🎓Mahasiswa
+* 🧑‍🎓**Mahasiswa**
 <br> - Dashboard
 <br> - Message
-* 🧑‍💼Komisi Disiplin
+* 🧑‍💼**Komisi Disiplin**
 <br> - Dashboard
 <br> - Evaluate
-* 🧑‍💻Admin
+* 🧑‍💻**Admin**
 <br> - Dashboard
 <br> - Violation Data
 <br> - Student Data
@@ -31,7 +31,7 @@ Nama ini merupakan gabungan dari "TECHNO" yang mencerminkan pemanfaatan Teknolog
 ---
 
 ### PROGRESS
-![](https://geps.dev/progress/70)
+![](https://geps.dev/progress/100)
 
 ---
 
